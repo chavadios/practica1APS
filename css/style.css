@@ -1,0 +1,33 @@
+body{
+	background-image: url("../img/5.png");
+ 	background-size: auto;
+ 	background-attachment: fixed;
+ 	background-position: center;
+}
+
+nav{
+	background-image: url("../img/header.png");
+	background-size: cover;
+	background-color: black;
+	font-family: verdana;
+}
+header{
+	
+	background-image: url("../img/7.png");
+	background-size: auto;
+ 	background-attachment: fixed;
+ 	background-position: center;
+}
+
+p{
+	text-align: center;
+	color:black;
+	font-family: verdana;
+  	background-color: whithe;
+  
+}
+h3{
+	text-align: center;
+
+}
+  
